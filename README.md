@@ -2,12 +2,23 @@
 
 # About me
 
-☀️ I have always enjoyed problem-solving. Over the years I have used it in several different subjects, but I have always leaned towards problem-solving within technology. 
+As a fourth-semester student of Software Development at the IT-University of Copenhagen, I have hands-on experience in web development, databases, and algorithms. I have gained a strong foundation in the following programming languages:
 
-👨‍🎓 At a relatively early age, I figured I wanted to be part of the software world, to continue doing what I like. I have therefore started studying Software Development, and I am now in my third semester. Until now, I have learned Java and Web programming well. Right now we are learning C#/Dotnet, SQL and Golang.
+* Java
+* C#
+* Golang 
 
-🙋 As a person, I am helpful and enterprising and I am always ready for new challenges.
-Feel free to connect with me on LinkedIn.
+My coursework has honed my problem-solving skills and solidified my passion for technology. My helpful and enterprising nature, with solid communication skills, make me a valuable addition to any team. 
+
+When not coding, I can be found at the local gym or in the student-run Café called Analog. After volunteering as a barista and board member I may have become somewhat addicted to coffee, and it is therefore essential to my coding routine☕️
+
+I am currently learning:
+
+* Mobile app development 📱
+* Functional programming 🔬
+* Scrum 📅 
+
+Feel free to connect on LinkedIn, and let's see how our paths may cross in the future 🔜
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/linked_in-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-frey-torres-hanson-b6b79320b/)
