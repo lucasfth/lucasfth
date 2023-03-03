@@ -37,5 +37,5 @@ Feel free to connect on LinkedIn, and let's see how our paths may cross in the f
 ## Home Setup
 ![cpu](https://img.shields.io/badge/amd-ryzen_5800x-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![graphics](https://img.shields.io/badge/nvidia-rtx_3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![os](https://img.shields.io/badge/windows_10-00adef?style=for-the-badge&logo=windows&logoColor=white)
+![os](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ide](https://img.shields.io/badge/vs_code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
