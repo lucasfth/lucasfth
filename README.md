@@ -48,4 +48,5 @@ Feel free to connect on LinkedIn, and let's see how our paths may cross in the f
 ## IDE
 ![vscode](https://img.shields.io/badge/vs_code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![jetbrains](https://img.shields.io/badge/jetbrains-black?style=for-the-badge&logo=jetbrains&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![GoLand](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)
