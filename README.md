@@ -34,8 +34,18 @@ Feel free to connect on LinkedIn, and let's see how our paths may cross in the f
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## Home Setup
+## Desktop
 ![cpu](https://img.shields.io/badge/amd-ryzen_5800x-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![graphics](https://img.shields.io/badge/nvidia-rtx_3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![os](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![ide](https://img.shields.io/badge/vs_code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+## Laptop
+![laptop](https://img.shields.io/badge/apple-macbook_pro_2018-707070?style=for-the-badge&logo=apple&logoColor=white)
+![cpu](https://img.shields.io/badge/intel-core_i5_8259U-blue?style=for-the-badge&logo=intel&logoColor=white)
+![graphics](https://img.shields.io/badge/intel-iris_plus_graphics_655-blue?style=for-the-badge&logo=intel&logoColor=white)
+![os](https://img.shields.io/badge/ventura_macos-ff9500?style=for-the-badge&logo=macos&logoColor=white)
+
+## IDE
+![vscode](https://img.shields.io/badge/vs_code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![jetbrains](https://img.shields.io/badge/jetbrains-black?style=for-the-badge&logo=jetbrains&logoColor=white)
