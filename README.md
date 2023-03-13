@@ -1,7 +1,5 @@
 # Hi there 👋
 
-# About me
-
 As a fourth-semester student of Software Development at the IT-University of Copenhagen, I have hands-on experience in web development, databases, and algorithms. I have gained a strong foundation in the following programming languages:
 
 * Java
