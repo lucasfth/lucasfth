@@ -43,7 +43,7 @@ Feel free to connect on LinkedIn, and let's see how our paths may cross in the f
 ![laptop](https://img.shields.io/badge/apple-macbook_pro_2018-707070?style=for-the-badge&logo=apple&logoColor=white)
 ![cpu](https://img.shields.io/badge/intel-core_i5_8259U-blue?style=for-the-badge&logo=intel&logoColor=white)
 ![graphics](https://img.shields.io/badge/intel-iris_plus_graphics_655-blue?style=for-the-badge&logo=intel&logoColor=white)
-![os](https://img.shields.io/badge/ventura_macos-ff9500?style=for-the-badge&logo=macos&logoColor=white)
+![os](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 ## IDE
 ![vscode](https://img.shields.io/badge/vs_code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
