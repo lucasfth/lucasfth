@@ -21,7 +21,7 @@ Feel free to connect, and let's see how our paths may cross in the future 🔜
 
 ## Socials
 
-[![LinkedIn](https://img.shields.io/badge/linked_in-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-frey-torres-hanson-b6b79320b/ "Link to LinkedIn profile")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-frey-torres-hanson-b6b79320b/ "Link to LinkedIn profile")
 
 ## Languages
 
