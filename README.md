@@ -1,22 +1,23 @@
 # Hi there 👋
 
-As a fourth-semester student of Software Development at the IT-University of Copenhagen, I have hands-on experience in web development, databases, and algorithms. I have gained a strong foundation in the following programming languages:
+As a sixth-semester student of Software Development at the IT-University of Copenhagen, I have hands-on experience in web development, databases, and algorithms. I have gained a strong foundation in the following programming languages:
 
-* Java
-* C#
-* Golang 
+- Java
+- C#
+- Golang 
 
 My coursework has honed my problem-solving skills and solidified my passion for technology. My helpful and enterprising nature, with solid communication skills, make me a valuable addition to any team. 
 
-When not coding, I can be found at the local gym or in the student-run Café called Analog. After volunteering as a barista and board member I may have become somewhat addicted to coffee, and it is therefore essential to my coding routine☕️
+When not coding, I can be found at the local gym or in the student-run Café called Analog. After volunteering as a barista and former vice-chair I may have become somewhat addicted to coffee, and it is therefore essential to my coding routine☕️
 
 I am currently learning:
 
-* Mobile app development 📱
-* Functional programming 🔬
-* Scrum 📅 
+* Reflections on IT 🤔
+* Introduction to Artificial Intelligence 🤖
 
-Feel free to connect on LinkedIn, and let's see how our paths may cross in the future 🔜
+Additionally, I am working on my bachelor project titled "Hand-Gesture-Based Interaction in Hybrid Meetings."
+
+Feel free to connect, and let's see how our paths may cross in the future 🔜
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/linked_in-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-frey-torres-hanson-b6b79320b/)
