@@ -31,6 +31,12 @@ Feel free to reach out, and let's see how our paths might cross in the future! ð
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 
+## Other
+
+[![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white)](#)
+[![JSON](https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#)
+
 ## Desktop
 
 ![cpu](https://img.shields.io/badge/amd-ryzen_5800x-ED1C24?style=flat&logo=amd&logoColor=white "CPU")
