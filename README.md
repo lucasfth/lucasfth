@@ -13,7 +13,7 @@
 
 <!-- https://github.com/inttter/md-badges -->
 
-## Languages, tools, and misc
+## Languages and similar
 
 ### Languages
 
