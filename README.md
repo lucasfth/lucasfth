@@ -73,7 +73,7 @@
 </div>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&layout=compact&langs_count=10&theme=dark" alt="lucasfth" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark" alt="lucasfth" />
 </div>
 
 <h2 align="center">Contact</h2>
