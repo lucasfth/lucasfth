@@ -76,21 +76,19 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark" alt="lucasfth" />
 </div>
 
-<h2 align="center">Contact</h2>
-
-<div align="center">
-  <p>Contact me either on LinkedIn by clicking
-    <a href="https://www.linkedin.com/in/lucas-frey-torres-hanson-b6b79320b/" target="_blank" rel="noopener noreferrer">
-      here.
-    </a>
-  </p>
-  <p>Or contact me by email by clicking
-    <a href="mailto:contact@lucashanson.dk">
-      here.
-    </a>
-  </p>
-</div>
+<br/>
 
 <div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasfth&show_icons=true&theme=dark&locale=en" alt="lucasfth" />
+</div>
+
+<h2 align="center">Connect with me</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucas-frey-torres-hanson-b6b79320b/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
+  </a>
+  <a href="mailto:contact@lucashanson.dk">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  </a>
 </div>
