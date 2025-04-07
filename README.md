@@ -72,15 +72,12 @@
   </p>
 </div>
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark" alt="lucasfth" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasfth&show_icons=true&theme=dark&locale=en" alt="lucasfth" />
-</div>
+<span>
+  <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasfth&show_icons=true&theme=dark&locale=en" alt="lucasfth" />
+</span>
+<span>
+  <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark" alt="lucasfth" />
+</span>
 
 <h2 align="center">Connect with me</h2>
 
