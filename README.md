@@ -82,10 +82,7 @@
 <h2 align="center">Connect with me</h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/lucas-frey-torres-hanson-b6b79320b/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" />
-  </a>
-  <a href="mailto:contact@lucashanson.dk">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
+  <a href="https://linktr.ee/lucashanson" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white" />
   </a>
 </div>
