@@ -17,8 +17,10 @@ jobs:
               channel_id: "UCSf9uWEmXyOw4lfyPzpnYAA"
          - name: Configure Git
            run: |
-              git config user.name "github-actions[bot]"
-              git config user.email "github-actions[bot]@users.noreply.github.com"
+             git config user.name "github-actions[bot]"
+             git config user.email "github-actions[bot]@users.noreply.github.com"
+             git pull --rebase origin main  # Pull and rebase to resolve conflicts
+             git push origin main
          - name: Push changes
            uses: actions-js/push@master
            with:
