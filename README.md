@@ -89,12 +89,8 @@
 
 <h2 align="center">Latest YouTube video</h2>
 
-<div align="center>
-  {{#each videos}}
-  
-  <a href="https://youtu.be/{{videoId}}">
-     <img src="{{thumbnail}}" alt="{{title}}"></img>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=BX01oZrmAjw" target="_blank">
+    <img src="https://img.youtube.com/vi/BX01oZrmAjw/0.jpg" alt="Watch on YouTube" />
   </a>
-  {{/each}}
-
 </div>
