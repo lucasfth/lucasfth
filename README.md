@@ -86,3 +86,15 @@
     <img src="https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white" />
   </a>
 </div>
+
+<h2 align="center">Latest YouTube video</h2>
+
+<div align="center>
+  {{#each videos}}
+  
+  <a href="https://youtu.be/{{videoId}}">
+     <img src="{{thumbnail}}" alt="{{title}}"></img>
+  </a>
+  {{/each}}
+
+</div>
