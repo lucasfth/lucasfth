@@ -16,13 +16,17 @@ jobs:
               YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
            with:
               channel_id: "UCSf9uWEmXyOw4lfyPzpnYAA"
+         
+         - name: Pull latest changes
+           run: |
+             git config --global user.name "github-actions[bot]"
+             git config --global user.email "github-actions[bot]@users.noreply.github.com"
+             git pull --rebase
    
          - name: Push changes
            uses: actions-js/push@master
            with:
              github_token: ${{ secrets.GITHUB_TOKEN }}
              pre_push_commands: |
-               git config --global user.name "github-actions[bot]"
-               git config --global user.email "github-actions[bot]@users.noreply.github.com"
                git push --force
              
