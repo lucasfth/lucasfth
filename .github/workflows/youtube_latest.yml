@@ -7,6 +7,7 @@ jobs:
       runs-on: ubuntu-latest
       permissions:
         contents: write
+        pull-requests: write
       steps:
          - uses: actions/checkout@v2
          
@@ -22,11 +23,15 @@ jobs:
              git config --global user.name "github-actions[bot]"
              git config --global user.email "github-actions[bot]@users.noreply.github.com"
              git pull --rebase --strategy-option=theirs
-   
-         - name: Push changes
-           uses: actions-js/push@master
+         
+         - name: Create Pull Request
+           uses: peter-evans/create-pull-request@v5
            with:
-             github_token: ${{ secrets.GITHUB_TOKEN }}
-             pre_push_commands: |
-               git push --force
-             
+             token: ${{ secrets.GITHUB_TOKEN }}
+             commit-message: "chore: Update README with latest YouTube videos"
+             branch: update-readme-with-youtube-videos
+             title: "Update README with latest YouTube videos"
+             body: |
+               This pull request was created automatically by a GitHub Action.
+               It updates the README with the latest YouTube videos from the specified channel.
+               
