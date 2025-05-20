@@ -96,7 +96,7 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=lucasfth&theme=github-compact&hide_border=true" /></a>
 </details>
 
-<details><summary><h3 align="center">📹 Latest YouTube video</h2></summary>
+<details><summary><h3 align="center">📹 Latest YouTube videos</h2></summary>
   <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=BX01oZrmAjw"><img src="https://ytcards.demolab.com/?id=BX01oZrmAjw&title=ITU+SKI+2025+-+Val+d%27Is%C3%A8re&lang=en&timestamp=1738608153&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="ITU SKI 2025 - Val d'Isère" title="ITU SKI 2025 - Val d'Isère"></a>
 <!-- END YOUTUBE-CARDS -->
