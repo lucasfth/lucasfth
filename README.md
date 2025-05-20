@@ -78,12 +78,9 @@
 </details>
 
 <details><summary><h3>📊 GitHub metrics</h3></h3></summary>
-  <span>
-    <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasfth&show_icons=true&theme=dark&locale=en&bg_color=0d1117&hide_border=true" alt="lucasfth" />
-  </span>
-  <span>
-    <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&hide_border=true" alt="lucasfth" />
-  </span>
+  <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasfth&show_icons=true&theme=dark&locale=en&bg_color=0d1117&hide_border=true" alt="lucasfth" />
+  
+  <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&hide_border=true" alt="lucasfth" />
 
   <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#37](https://github.com/itu-campuscup/judge-it/pull/37) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
