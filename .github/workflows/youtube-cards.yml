@@ -17,4 +17,4 @@ jobs:
         with:
           channel_id: UCSf9uWEmXyOw4lfyPzpnYAA
           show_duration: true
-          output_type: HTML
+          output_type: html
