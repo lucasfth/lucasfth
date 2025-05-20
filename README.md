@@ -86,6 +86,11 @@
   </span>
 
   <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#37](https://github.com/itu-campuscup/judge-it/pull/37) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
+2. 🎉 Merged PR [#36](https://github.com/itu-campuscup/judge-it/pull/36) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
+3. 💪 Opened PR [#36](https://github.com/itu-campuscup/judge-it/pull/36) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
+4. 🎉 Merged PR [#33](https://github.com/itu-campuscup/judge-it/pull/33) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
+5. 🎉 Merged PR [#34](https://github.com/itu-campuscup/judge-it/pull/34) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
   <!--END_SECTION:activity-->
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=lucasfth&theme=github-compact&hide_border=true" /></a>
