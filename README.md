@@ -98,7 +98,6 @@
 
 <details><summary><h3 align="center">📹 Latest YouTube video</h2></summary>
   <!-- BEGIN YOUTUBE-CARDS -->
-[![ITU SKI 2025 - Val d'Isère](https://ytcards.demolab.com/?id=BX01oZrmAjw&title=ITU+SKI+2025+-+Val+d%27Is%C3%A8re&lang=en&timestamp=1738608153&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ITU SKI 2025 - Val d'Isère")](https://www.youtube.com/watch?v=BX01oZrmAjw)
-<!-- END YOUTUBE-CARDS -->
+  <!-- END YOUTUBE-CARDS -->
 </details>
 
