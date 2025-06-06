@@ -17,3 +17,4 @@ jobs:
         with:
           channel_id: UCSf9uWEmXyOw4lfyPzpnYAA
           output_type: html
+          commit_message: "Update YouTube cards"
