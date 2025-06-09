@@ -102,7 +102,7 @@
 </details>
 
 <details><summary><h3 align="center">📚 Latest Blog Posts</h3></summary>
-  <!-- BLOG-POST-LIST:START --><li><a href="https://lucashanson.dk/blog/downsize-images">Downsizing Images</a></li>
-<li><a href="https://lucashanson.dk/blog/first-post">My First Blog Post</a></li>
+  <!-- BLOG-POST-LIST:START --><li><a href="https://lucashanson.dk/blog/downsize-images">(2025 Mar) Downsizing Images - Downsizing images to prevent unauthorized use.</a></li>
+<li><a href="https://lucashanson.dk/blog/first-post">(2025 Feb) My First Blog Post - A brief introduction.</a></li>
 <!-- BLOG-POST-LIST:END -->
 </details>
