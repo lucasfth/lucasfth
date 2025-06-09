@@ -103,5 +103,7 @@
 
 <details><summary><h3 align="center">📚 Latest Blog Posts</h3></summary>
   <!-- BLOG-POST-LIST:START -->
-  <!-- BLOG-POST-LIST:END -->
+- [Downsizing Images](https://lucashanson.dk/blog/downsize-images)
+- [My First Blog Post](https://lucashanson.dk/blog/first-post)
+<!-- BLOG-POST-LIST:END -->
 </details>
