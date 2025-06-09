@@ -101,3 +101,7 @@
 <!-- END YOUTUBE-CARDS -->
 </details>
 
+<details><summary><h3 align="center">📚 Latest Blog Posts</h3></summary>
+  <!-- BLOG-POST-LIST:START -->
+  <!-- BLOG-POST-LIST:END -->
+</details>
