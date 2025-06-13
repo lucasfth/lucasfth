@@ -83,11 +83,11 @@
   <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&hide_border=true" alt="lucasfth" />
 
   <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/lucasfth/language-energy-efficiency/pull/1) in [lucasfth/language-energy-efficiency](https://github.com/lucasfth/language-energy-efficiency)
-2. 🔒 Closed issue [#43](https://github.com/itu-campuscup/judge-it/issues/43) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
-3. 🎉 Merged PR [#62](https://github.com/itu-campuscup/judge-it/pull/62) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
-4. 💪 Opened PR [#62](https://github.com/itu-campuscup/judge-it/pull/62) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
-5. 🔒 Closed issue [#9](https://github.com/itu-campuscup/judge-it/issues/9) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
+1. 🗣 Commented on [#109](https://github.com/AasishPokhrel/shit/pull/109#issuecomment-2967232351) in [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit)
+2. 💪 Opened PR [#109](https://github.com/AasishPokhrel/shit/pull/109) in [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit)
+3. ❌ Closed PR [#1](https://github.com/lucasfth/language-energy-efficiency/pull/1) in [lucasfth/language-energy-efficiency](https://github.com/lucasfth/language-energy-efficiency)
+4. 🔒 Closed issue [#43](https://github.com/itu-campuscup/judge-it/issues/43) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
+5. 🎉 Merged PR [#62](https://github.com/itu-campuscup/judge-it/pull/62) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
   <!--END_SECTION:activity-->
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=lucasfth&theme=github-compact&hide_border=true" /></a>
