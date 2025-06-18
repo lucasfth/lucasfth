@@ -10,7 +10,9 @@
 
 <p align="center">
   In my spare time, I am working on <a href="https://github.com/itu-campuscup/judge-it">judge-it</a>, which will be used for CampusCup 2025. <br /><br />
-  <img alt="CampusCup 2025 Countdown" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/itu-campuscup/simple-endpoint/main/countdown.json">
+  <a href="https://campuscup.dk" target="_blank" rel="noopener noreferrer">
+    <img alt="CampusCup 2025 Countdown" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/itu-campuscup/simple-endpoint/main/countdown.json" />
+  </a>
 </p>
 
 
