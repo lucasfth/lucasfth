@@ -1,12 +1,18 @@
 <h3> Hi I am Lucas</a> </h3>
 
-🎓 I am currently studying MSc. Computer Science at ITU.
-
 <div align="center">
+  🎓 I am currently studying MSc. Computer Science at ITU. <br /><br />
   <a href="https://linktr.ee/lucashanson" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white" />
   </a>
+  <br />
 </div>
+
+<p align="center">
+  In my spare time, I am working on <a href="https://github.com/itu-campuscup/judge-it">judge-it</a>, which will be used for CampusCup 2025. <br /><br />
+  <img alt="CampusCup 2025 Countdown" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/itu-campuscup/simple-endpoint/main/countdown.json">
+</p>
+
 
 <details open><summary><h3>👨‍💻 Code preferences</h3></summary>
   <table align="center">
