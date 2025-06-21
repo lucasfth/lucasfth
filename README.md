@@ -103,11 +103,11 @@
   <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&hide_border=true" alt="lucasfth" />
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/lucasfth/portfolio/pull/19#issuecomment-2988234021) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
-2. 🎉 Merged PR [#20](https://github.com/lucasfth/portfolio/pull/20) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
-3. 🎉 Merged PR [#21](https://github.com/lucasfth/portfolio/pull/21) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
-4. 🗣 Commented on [#109](https://github.com/AasishPokhrel/shit/pull/109#issuecomment-2967232351) in [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit)
-5. 💪 Opened PR [#109](https://github.com/AasishPokhrel/shit/pull/109) in [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit)
+1. 🗣 Commented on [#45](https://github.com/itu-campuscup/judge-it/issues/45#issuecomment-2990877552) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
+2. 🗣 Commented on [#19](https://github.com/lucasfth/portfolio/pull/19#issuecomment-2988234021) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
+3. 🎉 Merged PR [#20](https://github.com/lucasfth/portfolio/pull/20) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
+4. 🎉 Merged PR [#21](https://github.com/lucasfth/portfolio/pull/21) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
+5. 🗣 Commented on [#109](https://github.com/AasishPokhrel/shit/pull/109#issuecomment-2967232351) in [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit)
   <!--END_SECTION:activity-->
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=lucasfth&theme=github-compact&hide_border=true" /></a>
