@@ -23,7 +23,7 @@
 
 <p align="center">
   In 2024-2025 I used a lot of my spare time working on <a href="https://github.com/itu-campuscup/judge-it">judge-it</a>, which was used for CampusCup 2025.
-  You can read about the project [here](https://lucashanson.dk/projects/judge-it)
+  You can read about the project <a href"https://lucashanson.dk/projects/judge-it">here</a>
 </p>
 <p align="center">
   <a href="https://campuscup.dk" target="_blank" rel="noopener noreferrer">
