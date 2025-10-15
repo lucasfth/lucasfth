@@ -107,11 +107,11 @@
   <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&hide_border=true" alt="lucasfth" />
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/lucasfth/portfolio/pull/42) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
-2. 🎉 Merged PR [#43](https://github.com/lucasfth/portfolio/pull/43) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
-3. 🗣 Commented on [#42](https://github.com/lucasfth/portfolio/pull/42#issuecomment-3394564670) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
-4. 🎉 Merged PR [#44](https://github.com/lucasfth/portfolio/pull/44) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
-5. 🎉 Merged PR [#45](https://github.com/lucasfth/portfolio/pull/45) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
+1. 💪 Opened PR [#49](undefined) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
+2. 🗣 Commented on [#109](https://github.com/itu-campuscup/judge-it/pull/109#issuecomment-3398862335) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
+3. 🗣 Commented on [#108](https://github.com/itu-campuscup/judge-it/pull/108#issuecomment-3398860967) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
+4. 🗣 Commented on [#42](https://github.com/lucasfth/portfolio/pull/42#issuecomment-3394564670) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
+5. ❗ Opened issue [#26](https://github.com/ITU-ScrollBar/ScrollBarWebsite/issues/26) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
   <!--END_SECTION:activity-->
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=lucasfth&theme=github-compact&hide_border=true" /></a>
