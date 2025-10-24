@@ -107,11 +107,11 @@
   <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&hide_border=true" alt="lucasfth" />
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#110](https://github.com/itu-campuscup/judge-it/pull/110#issuecomment-3432178890) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
-2. 🗣 Commented on [#111](https://github.com/itu-campuscup/judge-it/pull/111#issuecomment-3432177325) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
-3. 🗣 Commented on [#108](https://github.com/itu-campuscup/judge-it/pull/108#issuecomment-3419539795) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
-4. 🗣 Commented on [#109](https://github.com/itu-campuscup/judge-it/pull/109#issuecomment-3419539674) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
-5. 🗣 Commented on [#4](https://github.com/ITU-ScrollBar/TheWheelOfFortune/pull/4#issuecomment-3419510822) in [ITU-ScrollBar/TheWheelOfFortune](https://github.com/ITU-ScrollBar/TheWheelOfFortune)
+1. 🔒 Closed issue [#31](https://github.com/ITU-ScrollBar/ScrollBarWebsite/issues/31) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
+2. 🗣 Commented on [#55](https://github.com/ITU-ScrollBar/ScrollBarWebsite/pull/55#issuecomment-3436610280) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
+3.  Assigned issue [#31](https://github.com/ITU-ScrollBar/ScrollBarWebsite/issues/31) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
+4.  Unassigned issue [#51](https://github.com/ITU-ScrollBar/ScrollBarWebsite/issues/51) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
+5. 🗣 Commented on [#55](https://github.com/ITU-ScrollBar/ScrollBarWebsite/pull/55#issuecomment-3436588612) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
   <!--END_SECTION:activity-->
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=lucasfth&theme=github-compact&hide_border=true" /></a>
