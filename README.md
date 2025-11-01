@@ -107,11 +107,11 @@
   <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&hide_border=true" alt="lucasfth" />
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/ITU-ScrollBar/ScrollBarWebsite/issues/57#issuecomment-3468529517) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
-2. 🗣 Commented on [#61](https://github.com/ITU-ScrollBar/ScrollBarWebsite/pull/61#issuecomment-3467235948) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
-3. 💪 Opened PR [#61](undefined) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
-4. ❌ Assigned PR [#61](undefined) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
-5. 🗣 Commented on [#60](https://github.com/ITU-ScrollBar/ScrollBarWebsite/pull/60#issuecomment-3460156382) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
+1. 🔒 Closed issue [#37](https://github.com/ITU-ScrollBar/ScrollBarWebsite/issues/37) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
+2. 🗣 Commented on [#57](https://github.com/ITU-ScrollBar/ScrollBarWebsite/issues/57#issuecomment-3468529517) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
+3. 🗣 Commented on [#61](https://github.com/ITU-ScrollBar/ScrollBarWebsite/pull/61#issuecomment-3467235948) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
+4. 💪 Opened PR [#61](undefined) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
+5. ❌ Assigned PR [#61](undefined) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
   <!--END_SECTION:activity-->
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=lucasfth&theme=github-compact&hide_border=true" /></a>
