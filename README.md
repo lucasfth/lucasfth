@@ -107,11 +107,11 @@
   <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&hide_border=true" alt="lucasfth" />
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#66](undefined) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
-2. ❌ Assigned PR [#66](undefined) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
-3. 💪 Opened PR [#65](undefined) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
-4. ❌ Assigned PR [#65](undefined) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
-5. 🔒 Closed issue [#14](https://github.com/ITU-ScrollBar/ScrollBarWebsite/issues/14) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
+1. 🗣 Commented on [#73](https://github.com/ITU-ScrollBar/ScrollBarWebsite/issues/73#issuecomment-3487046131) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
+2. ❗ Opened issue [#73](https://github.com/ITU-ScrollBar/ScrollBarWebsite/issues/73) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
+3. 💪 Opened PR [#72](undefined) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
+4. ❌ Assigned PR [#72](undefined) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
+5. 🗣 Commented on [#71](https://github.com/ITU-ScrollBar/ScrollBarWebsite/issues/71#issuecomment-3486227906) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
   <!--END_SECTION:activity-->
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=lucasfth&theme=github-compact&hide_border=true" /></a>
