@@ -107,11 +107,11 @@
   <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&hide_border=true" alt="lucasfth" />
 
   <!--START_SECTION:activity-->
-1. 🗣 Commented on [#45](https://github.com/ITU-ScrollBar/ScrollBarWebsite/issues/45#issuecomment-3491065003) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
-2. 🗣 Commented on [#73](https://github.com/ITU-ScrollBar/ScrollBarWebsite/issues/73#issuecomment-3487046131) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
-3. ❗ Opened issue [#73](https://github.com/ITU-ScrollBar/ScrollBarWebsite/issues/73) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
-4. 💪 Opened PR [#72](undefined) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
-5. ❌ Assigned PR [#72](undefined) in [ITU-ScrollBar/ScrollBarWebsite](https://github.com/ITU-ScrollBar/ScrollBarWebsite)
+1. 💪 Opened PR [#60](undefined) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
+2. 💪 Opened PR [#59](undefined) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
+3. 💪 Opened PR [#58](undefined) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
+4. 🗣 Commented on [#114](https://github.com/PhilipFlyvholm/learnit-plus-plus/pull/114#issuecomment-3496415956) in [PhilipFlyvholm/learnit-plus-plus](https://github.com/PhilipFlyvholm/learnit-plus-plus)
+5. 🗣 Commented on [#114](https://github.com/PhilipFlyvholm/learnit-plus-plus/pull/114#issuecomment-3496354453) in [PhilipFlyvholm/learnit-plus-plus](https://github.com/PhilipFlyvholm/learnit-plus-plus)
   <!--END_SECTION:activity-->
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=lucasfth&theme=github-compact&hide_border=true" /></a>
