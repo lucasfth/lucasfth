@@ -107,11 +107,11 @@
   <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&hide_border=true" alt="lucasfth" />
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#134](https://github.com/itu-campuscup/judge-it/pull/134) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
-2. 🗣 Commented on [#1](https://github.com/lucasfth/skaljegpaski.dk/pull/1#issuecomment-3707131762) in [lucasfth/skaljegpaski.dk](https://github.com/lucasfth/skaljegpaski.dk)
-3. 🗣 Commented on [#1](https://github.com/lucasfth/skaljegpaski.dk/pull/1#issuecomment-3707131455) in [lucasfth/skaljegpaski.dk](https://github.com/lucasfth/skaljegpaski.dk)
-4. 🎉 Merged PR [#78](https://github.com/lucasfth/portfolio/pull/78) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
-5. 💪 Opened PR [#78](https://github.com/lucasfth/portfolio/pull/78) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
+1. 🗣 Commented on [#135](https://github.com/itu-campuscup/judge-it/pull/135#issuecomment-3714377728) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
+2. 🗣 Commented on [#134](https://github.com/itu-campuscup/judge-it/pull/134#issuecomment-3713533444) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
+3. 💪 Opened PR [#134](https://github.com/itu-campuscup/judge-it/pull/134) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
+4. 🗣 Commented on [#1](https://github.com/lucasfth/skaljegpaski.dk/pull/1#issuecomment-3707131762) in [lucasfth/skaljegpaski.dk](https://github.com/lucasfth/skaljegpaski.dk)
+5. 🗣 Commented on [#1](https://github.com/lucasfth/skaljegpaski.dk/pull/1#issuecomment-3707131455) in [lucasfth/skaljegpaski.dk](https://github.com/lucasfth/skaljegpaski.dk)
   <!--END_SECTION:activity-->
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=lucasfth&theme=github-compact&hide_border=true" /></a>
