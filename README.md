@@ -119,6 +119,7 @@
 
 <details><summary><h3 align="center">📹 Latest YouTube videos</h2></summary>
   <!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=xQ8oM73vKj0"><img src="https://ytcards.demolab.com/?id=xQ8oM73vKj0&title=ITU+Ski+2026+-+Val+d%27Is%C3%A8re&lang=en&timestamp=1770206761&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="ITU Ski 2026 - Val d'Isère" title="ITU Ski 2026 - Val d'Isère"></a>
 <a href="https://www.youtube.com/shorts/lF_PVmsYlKk"><img src="https://ytcards.demolab.com/?id=lF_PVmsYlKk&title=Annual+Party+2025&lang=en&timestamp=1759000713&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Annual Party 2025" title="Annual Party 2025"></a>
 <a href="https://www.youtube.com/shorts/ElE6XZYjniM"><img src="https://ytcards.demolab.com/?id=ElE6XZYjniM&title=CampusCup+2025+-+Aftermovie&lang=en&timestamp=1758296920&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="CampusCup 2025 - Aftermovie" title="CampusCup 2025 - Aftermovie"></a>
 <a href="https://www.youtube.com/watch?v=CGVYcm3vDoc"><img src="https://ytcards.demolab.com/?id=CGVYcm3vDoc&title=First+%28nearly%29+summer+run+2025+%F0%9F%8F%83&lang=en&timestamp=1749280206&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="First (nearly) summer run 2025 🏃" title="First (nearly) summer run 2025 🏃"></a>
