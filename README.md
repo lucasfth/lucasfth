@@ -60,7 +60,7 @@
     </tr>
     <tr>
       <td>Finding a license manually</td>
-      <td>Using <a href="https://repolicense.com" target="_blank" rel="noopener noreferrer">repolicense</a> to find the license</td>
+      <td>Using <a href="https://github.com/lucasfth/repolicense-cli" target="_blank" rel="noopener noreferrer">repolicense CLI</a> to find the license</td>
     </tr>
   </table>
 </details>
