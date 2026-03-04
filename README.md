@@ -107,11 +107,11 @@
   <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&hide_border=true" alt="lucasfth" />
 
   <!--START_SECTION:activity-->
-1. ℹ️ Unassigned issue [#4](https://github.com/itu-campuscup/judge-it/issues/4) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
-2. ℹ️ Unassigned issue [#73](https://github.com/itu-campuscup/judge-it/issues/73) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
-3. 🗣 Commented on [#156](https://github.com/itu-campuscup/judge-it/pull/156#issuecomment-3979456203) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
-4. ❌ Closed PR [#94](https://github.com/lucasfth/portfolio/pull/94) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
-5. ❌ Closed PR [#93](https://github.com/lucasfth/portfolio/pull/93) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
+1. 🗣 Commented on [#98](https://github.com/lucasfth/portfolio/pull/98#issuecomment-3989480371) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
+2. ℹ️ Unassigned issue [#4](https://github.com/itu-campuscup/judge-it/issues/4) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
+3. ℹ️ Unassigned issue [#73](https://github.com/itu-campuscup/judge-it/issues/73) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
+4. 🗣 Commented on [#156](https://github.com/itu-campuscup/judge-it/pull/156#issuecomment-3979456203) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
+5. ❌ Closed PR [#94](https://github.com/lucasfth/portfolio/pull/94) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
   <!--END_SECTION:activity-->
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=lucasfth&theme=github-compact&hide_border=true" /></a>
