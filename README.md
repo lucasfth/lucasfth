@@ -107,11 +107,11 @@
   <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&hide_border=true" alt="lucasfth" />
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/lucasfth/claus-dashboard/pull/1) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
-2. 💪 Opened PR [#1](https://github.com/lucasfth/claus-dashboard/pull/1) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
-3. ❌ Closed PR [#107](https://github.com/lucasfth/portfolio/pull/107) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
-4. 💪 Opened PR [#107](https://github.com/lucasfth/portfolio/pull/107) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
-5. 🗣 Commented on [#1](https://github.com/lucasfth/osws/issues/1#issuecomment-4067935334) in [lucasfth/osws](https://github.com/lucasfth/osws)
+1. 🎉 Merged PR [#6](https://github.com/lucasfth/claus-dashboard/pull/6) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
+2. 💪 Opened PR [#6](https://github.com/lucasfth/claus-dashboard/pull/6) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
+3. 🎉 Merged PR [#5](https://github.com/lucasfth/claus-dashboard/pull/5) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
+4. 💪 Opened PR [#5](https://github.com/lucasfth/claus-dashboard/pull/5) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
+5. 🎉 Merged PR [#4](https://github.com/lucasfth/claus-dashboard/pull/4) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
   <!--END_SECTION:activity-->
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=lucasfth&theme=github-compact&hide_border=true" /></a>
