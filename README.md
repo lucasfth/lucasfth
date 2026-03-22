@@ -107,11 +107,11 @@
   <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&hide_border=true" alt="lucasfth" />
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/lucasfth/claus-dashboard/pull/6) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
-2. 💪 Opened PR [#6](https://github.com/lucasfth/claus-dashboard/pull/6) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
-3. 🎉 Merged PR [#5](https://github.com/lucasfth/claus-dashboard/pull/5) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
-4. 💪 Opened PR [#5](https://github.com/lucasfth/claus-dashboard/pull/5) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
-5. 🎉 Merged PR [#4](https://github.com/lucasfth/claus-dashboard/pull/4) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
+1. 🚀 Published release [v2026.0.0](https://github.com/lucasfth/hinge-noise/releases/tag/v2026.0.0) in [lucasfth/hinge-noise](https://github.com/lucasfth/hinge-noise)
+2. 🎉 Merged PR [#9](https://github.com/lucasfth/claus-dashboard/pull/9) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
+3. 💪 Opened PR [#9](https://github.com/lucasfth/claus-dashboard/pull/9) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
+4. 🎉 Merged PR [#8](https://github.com/lucasfth/claus-dashboard/pull/8) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
+5. 💪 Opened PR [#8](https://github.com/lucasfth/claus-dashboard/pull/8) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
   <!--END_SECTION:activity-->
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=lucasfth&theme=github-compact&hide_border=true" /></a>
