@@ -107,11 +107,11 @@
   <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&hide_border=true" alt="lucasfth" />
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/lucasfth/osws/pull/6) in [lucasfth/osws](https://github.com/lucasfth/osws)
-2. 💪 Opened PR [#6](https://github.com/lucasfth/osws/pull/6) in [lucasfth/osws](https://github.com/lucasfth/osws)
-3. 🗣 Commented on [#177](https://github.com/itu-campuscup/judge-it/pull/177#issuecomment-4194563481) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
-4. 🗣 Commented on [#179](https://github.com/itu-campuscup/judge-it/pull/179#issuecomment-4194562316) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
-5. 🗣 Commented on [#180](https://github.com/itu-campuscup/judge-it/pull/180#issuecomment-4194561091) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
+1. 💪 Opened PR [#184](https://github.com/itu-campuscup/judge-it/pull/184) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
+2. 💪 Opened PR [#19](https://github.com/lucasfth/claus-dashboard/pull/19) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
+3. 🎉 Merged PR [#6](https://github.com/lucasfth/osws/pull/6) in [lucasfth/osws](https://github.com/lucasfth/osws)
+4. 💪 Opened PR [#6](https://github.com/lucasfth/osws/pull/6) in [lucasfth/osws](https://github.com/lucasfth/osws)
+5. 🗣 Commented on [#177](https://github.com/itu-campuscup/judge-it/pull/177#issuecomment-4194563481) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
   <!--END_SECTION:activity-->
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=lucasfth&theme=github-compact&hide_border=true" /></a>
