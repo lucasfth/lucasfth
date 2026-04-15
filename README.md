@@ -107,11 +107,11 @@
   <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&hide_border=true" alt="lucasfth" />
 
   <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#7](https://github.com/lucasfth/osws/pull/7) in [lucasfth/osws](https://github.com/lucasfth/osws)
-2. 💪 Opened PR [#7](https://github.com/lucasfth/osws/pull/7) in [lucasfth/osws](https://github.com/lucasfth/osws)
-3. ❌ Closed PR [#116](https://github.com/lucasfth/portfolio/pull/116) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
-4. ❌ Closed PR [#115](https://github.com/lucasfth/portfolio/pull/115) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
-5. ❌ Closed PR [#185](https://github.com/itu-campuscup/judge-it/pull/185) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
+1. 💪 Opened PR [#45](https://github.com/BabLoRP/CoDepend-C/pull/45) in [BabLoRP/CoDepend-C](https://github.com/BabLoRP/CoDepend-C)
+2. ℹ️ Assigned PR [#45](https://github.com/BabLoRP/CoDepend-C/pull/45) in [BabLoRP/CoDepend-C](https://github.com/BabLoRP/CoDepend-C)
+3. 💪 Opened PR [#39](https://github.com/BabLoRP/CoDepend-C/pull/39) in [BabLoRP/CoDepend-C](https://github.com/BabLoRP/CoDepend-C)
+4. ℹ️ Assigned PR [#39](https://github.com/BabLoRP/CoDepend-C/pull/39) in [BabLoRP/CoDepend-C](https://github.com/BabLoRP/CoDepend-C)
+5. 💪 Opened PR [#36](https://github.com/BabLoRP/CoDepend-C/pull/36) in [BabLoRP/CoDepend-C](https://github.com/BabLoRP/CoDepend-C)
   <!--END_SECTION:activity-->
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=lucasfth&theme=github-compact&hide_border=true" /></a>
