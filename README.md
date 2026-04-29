@@ -107,11 +107,11 @@
   <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&hide_border=true" alt="lucasfth" />
 
   <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/lucasfth/portfolio/pull/123) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
-2. 🎉 Merged PR [#22](https://github.com/lucasfth/claus-dashboard/pull/22) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
-3. 🎉 Merged PR [#23](https://github.com/lucasfth/claus-dashboard/pull/23) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
-4. ❌ Closed PR [#196](https://github.com/itu-campuscup/judge-it/pull/196) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
-5. 💪 Opened PR [#196](https://github.com/itu-campuscup/judge-it/pull/196) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
+1. 💪 Opened PR [#14](https://github.com/lucasfth/osws/pull/14) in [lucasfth/osws](https://github.com/lucasfth/osws)
+2. ℹ️ Assigned PR [#14](https://github.com/lucasfth/osws/pull/14) in [lucasfth/osws](https://github.com/lucasfth/osws)
+3. 🎉 Merged PR [#123](https://github.com/lucasfth/portfolio/pull/123) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
+4. 🎉 Merged PR [#22](https://github.com/lucasfth/claus-dashboard/pull/22) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
+5. 🎉 Merged PR [#23](https://github.com/lucasfth/claus-dashboard/pull/23) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
   <!--END_SECTION:activity-->
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=lucasfth&theme=github-compact&hide_border=true" /></a>
