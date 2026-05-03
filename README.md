@@ -107,11 +107,11 @@
   <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&hide_border=true" alt="lucasfth" />
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/lucasfth/osws/pull/14) in [lucasfth/osws](https://github.com/lucasfth/osws)
-2. ℹ️ Assigned PR [#14](https://github.com/lucasfth/osws/pull/14) in [lucasfth/osws](https://github.com/lucasfth/osws)
-3. 🎉 Merged PR [#123](https://github.com/lucasfth/portfolio/pull/123) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
-4. 🎉 Merged PR [#22](https://github.com/lucasfth/claus-dashboard/pull/22) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
-5. 🎉 Merged PR [#23](https://github.com/lucasfth/claus-dashboard/pull/23) in [lucasfth/claus-dashboard](https://github.com/lucasfth/claus-dashboard)
+1. 💪 Opened PR [#198](https://github.com/itu-campuscup/judge-it/pull/198) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
+2. 💪 Opened PR [#25](https://github.com/lucasfth/loki-dashboard/pull/25) in [lucasfth/loki-dashboard](https://github.com/lucasfth/loki-dashboard)
+3. 💪 Opened PR [#24](https://github.com/lucasfth/loki-dashboard/pull/24) in [lucasfth/loki-dashboard](https://github.com/lucasfth/loki-dashboard)
+4. 💪 Opened PR [#197](https://github.com/itu-campuscup/judge-it/pull/197) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
+5. 💪 Opened PR [#124](https://github.com/lucasfth/portfolio/pull/124) in [lucasfth/portfolio](https://github.com/lucasfth/portfolio)
   <!--END_SECTION:activity-->
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=lucasfth&theme=github-compact&hide_border=true" /></a>
