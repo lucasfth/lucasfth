@@ -107,11 +107,11 @@
   <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&hide_border=true" alt="lucasfth" />
 
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#200](https://github.com/itu-campuscup/judge-it/pull/200) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
-2. 💪 Opened PR [#199](https://github.com/itu-campuscup/judge-it/pull/199) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
-3. 🎉 Merged PR [#14](https://github.com/lucasfth/osws/pull/14) in [lucasfth/osws](https://github.com/lucasfth/osws)
-4. ℹ️ Assigned issue [#15](https://github.com/lucasfth/osws/issues/15) in [lucasfth/osws](https://github.com/lucasfth/osws)
-5. ℹ️ Assigned issue [#15](https://github.com/lucasfth/osws/issues/15) in [lucasfth/osws](https://github.com/lucasfth/osws)
+1. 🚀 Published release [V2026.0.0 - Alpha](https://github.com/lucasfth/osws/releases/tag/V2026.0.0-alpha) in [lucasfth/osws](https://github.com/lucasfth/osws)
+2. 🎉 Merged PR [#21](https://github.com/lucasfth/osws/pull/21) in [lucasfth/osws](https://github.com/lucasfth/osws)
+3. 💪 Opened PR [#21](https://github.com/lucasfth/osws/pull/21) in [lucasfth/osws](https://github.com/lucasfth/osws)
+4. ℹ️ Assigned PR [#21](https://github.com/lucasfth/osws/pull/21) in [lucasfth/osws](https://github.com/lucasfth/osws)
+5. 🎉 Merged PR [#20](https://github.com/lucasfth/osws/pull/20) in [lucasfth/osws](https://github.com/lucasfth/osws)
   <!--END_SECTION:activity-->
   
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=lucasfth&theme=github-compact&hide_border=true" /></a>
