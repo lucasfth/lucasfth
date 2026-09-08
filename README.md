@@ -1,7 +1,7 @@
 <h3> Hi I am Lucas</a> </h3>
 
 <p align="center">
-  🎓 I am currently studying MSc. Computer Science at ITU.
+  Currently working full-time @ <a href="https://ecoray.dk">EcoRay</a> and also finishing up my MSc. Computer Science @ ITU 🫨
 </p>
 <p align="center">
   <a href="https://links.lucashanson.dk/ig" target="_blank" rel="noopener noreferrer">
@@ -66,40 +66,6 @@
 </details>
 
 <!-- https://github.com/inttter/md-badges -->
-
-<details><summary><h3 align="center">👌 Experience</h2></summary>
-  <h4 align="center">Languages</h3>
-  <div align="center">
-    <p>
-      <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white" />
-      <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=csharp&logoColor=white" />
-      <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white" />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-      <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
-      <img src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white" />
-      <img src="https://img.shields.io/badge/F%23-378BBA?logo=fsharp&logoColor=fff" />
-    </p>
-  </div>
-  
-  <h4 align="center">Frontend</h3>
-  <div align="center">
-    <p>
-      <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff" />
-      <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" />
-    </p>
-  </div>
-  
-  <h4 align="center">Misc</h3>
-  <div align="center">
-    <p>
-      <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&logoColor=white" />
-      <img src="https://img.shields.io/badge/JSON-000?logo=json&logoColor=fff" />
-      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff" />
-    </p>
-  </div>
-</details>
 
 <details><summary><h3>📊 GitHub metrics</h3></h3></summary>
   <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasfth&show_icons=true&theme=dark&locale=en&bg_color=0d1117&hide_border=true" alt="lucasfth" />
