@@ -67,22 +67,6 @@
 
 <!-- https://github.com/inttter/md-badges -->
 
-<details><summary><h3>📊 GitHub metrics</h3></h3></summary>
-  <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api?username=lucasfth&show_icons=true&theme=dark&locale=en&bg_color=0d1117&hide_border=true" alt="lucasfth" />
-  
-  <img height="220px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfth&hide=jupyter%20notebook&layout=compact&langs_count=10&theme=dark&bg_color=0d1117&hide_border=true" alt="lucasfth" />
-
-  <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/itu-campuscup/show-it/pull/4) in [itu-campuscup/show-it](https://github.com/itu-campuscup/show-it)
-2. 🎉 Merged PR [#250](https://github.com/itu-campuscup/judge-it/pull/250) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
-3. 💪 Opened PR [#250](https://github.com/itu-campuscup/judge-it/pull/250) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
-4. 🎉 Merged PR [#249](https://github.com/itu-campuscup/judge-it/pull/249) in [itu-campuscup/judge-it](https://github.com/itu-campuscup/judge-it)
-5. 🎉 Merged PR [#6](https://github.com/itu-campuscup/schema/pull/6) in [itu-campuscup/schema](https://github.com/itu-campuscup/schema)
-  <!--END_SECTION:activity-->
-  
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph/?username=lucasfth&theme=github-compact&hide_border=true" /></a>
-</details>
-
 <details><summary><h3 align="center">📹 Latest YouTube videos</h2></summary>
   <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=xQ8oM73vKj0"><img src="https://ytcards.demolab.com/?id=xQ8oM73vKj0&title=ITU+Ski+2026+-+Val+d%27Is%C3%A8re&lang=en&timestamp=1770206761&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="ITU Ski 2026 - Val d'Isère" title="ITU Ski 2026 - Val d'Isère"></a>
