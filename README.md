@@ -26,13 +26,8 @@
 </p>
 
 <p align="center">
-  In 2024-2025 I used a lot of my spare time working on <a href="https://github.com/itu-campuscup/judge-it">judge-it</a>, which was used for CampusCup 2025.
-  You can read about the project <a href="https://lucashanson.dk/projects/judge-it">here</a>.
-</p>
-<p align="center">
-  <a href="https://campuscup.dk" target="_blank" rel="noopener noreferrer">
-    <img alt="CampusCup 2025 Countdown" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/itu-campuscup/simple-endpoint/main/countdown-2025.json" />
-  </a>
+  Have earlier created <a href="https://github.com/itu-campuscup/judge-it">Judge IT</a> and <a href="https://github.com/itu-campuscup/show-it">Show IT</a>.
+  Two webapps used for <a href="https://campuscup.dk">CampusCup</a>.
 </p>
 
 
