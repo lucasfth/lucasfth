@@ -78,7 +78,8 @@
 </details>
 
 <details><summary><h3 align="center">📚 Latest Blog Posts</h3></summary>
-  <!-- BLOG-POST-LIST:START --><li><a href="https://lucashanson.dk/blog/downsize-images">(2025 Mar) Downsizing Images - Downsizing images to prevent unauthorized use.</a></li>
+  <!-- BLOG-POST-LIST:START --><li><a href="https://lucashanson.dk/blog/self-hosted-ai-agents">(2026 Sep) I made my phone the brain of my AI agents - How I run a personal AI assistant on an old Android phone: one shared markdown vault, one self-hosted model, four agents, and the problems Android causes.</a></li>
+<li><a href="https://lucashanson.dk/blog/downsize-images">(2025 Mar) Downsizing Images - Downsizing images to prevent unauthorized use.</a></li>
 <li><a href="https://lucashanson.dk/blog/first-post">(2025 Feb) My first blog post - A brief introduction to my blog.</a></li>
 <!-- BLOG-POST-LIST:END -->
 </details>
