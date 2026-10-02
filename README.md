@@ -1,27 +1,33 @@
-<h3> Hi I am Lucas</a> </h3>
+<p align="center">
+  <a href="https://lucashanson.dk" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/portfolio-banner.jpg" alt="Snowy mountain landscape from my portfolio" width="100%" />
+  </a>
+</p>
+
+<h3 align="center">Hi I am Lucas</h3>
 
 <p align="center">
   Currently working full-time @
   <a href="https://ecoray.dk" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/EcoRay-137547?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAzMTUgMjg1Jz48cGF0aCBmaWxsPScjZmZmJyBkPSdNOTAuMTI3NCAwQzc5LjM2IDUuMjMxMSA2OS44MjU1IDExLjc1MDQgNjIuNDUxMSAyMC41MjIxQzY5Ljg5NjMgMjQuNjY2OCA4Mi42ODAxIDI5LjE4MzQgODguNjcyMyAzOC4zODJDOTUuNzUwOCAyOC43NjAyIDEwMi43MTkgMjUuMTcyMyAxMTguNzE0IDE4LjgxMDVDMTEwLjQ1MSAxMS42NTk5IDEwMi42MTEgNC4yMTQ5MyA5MC4xMjc0IDBaTTI2OC4yODggMTAuNjQ0N0wyMDUuMzY5IDcxLjI4MzRDMjExLjM2MiA3Ni44NzMxIDIxNi4xODkgODMuNTE5IDIxOS44NTMgOTAuNzgzMUwzMDQuNDQ2IDY3LjMzNDRDMjk2LjUwNiA0Ni4xNTU0IDI4NC4yODMgMjYuNzU5NSAyNjguMjg4IDEwLjY0NDdaTTE3OS4zNTggMjEuOTAzN0MxNDMuMzcxIDIxLjIwMzYgMTEyLjk3MSAzMy43MDE0IDk4LjUwMzIgNDcuNjkwOUMxMjcuOTY1IDg1LjY5MzggMTE0LjMwNyAxMzcuNDg2IDEyNy4yNzMgMTU5LjIyMkMxODMuMDAyIDE0My43NyAxOTYuMTQgODYuMzQ3MiAxNzkuMzU4IDIxLjkwMzdaTTcuNzUwMTcgMjYuMTIwNUMtMTMuNDY1IDEwMC43MjUgNi4xOTEwNCAxNzEuODY5IDEwMC4yNzggMTcxLjg2OUw0NC4xMzc5IDIyNi42OEM1Ny40MTYxIDI0My41NTUgNzMuNzExMSAyNTcuMTQgOTEuODM3NCAyNjYuOTdMMTI0LjQ3MyAxODIuMjM5QzEyMi43MzYgMTgwLjk3IDEyMS4wMTQgMTc5LjU4NCAxMTkuMzA3IDE3OC4wMTZDMTA3LjM3MSAxNjguMzQ5IDEwMS4zMTEgMTU0LjE1MSA5OC44OTY5IDE0MS40MkM5Ni4xNTkxIDEyNi45ODEgOTYuMjc4NSAxMTMuMTE3IDk0LjY2MzggMTAwLjExNUM5My42MTc3IDkxLjY5MTkgOTIuMTEzOCA4My41OTEyIDg5Ljc5NTEgNzYuMDQ4OEM3OC45NTQ4IDQ4Ljc5MTQgNTYuNzkyMyAyNi4xMjA1IDcuNzUwMTcgMjYuMTIwNVpNMzEzLjIzNSAxMDEuMjk3TDIyNy41MDYgMTI1LjA1OUMyMjcuMzc1IDEyOS45ODQgMjI2Ljc1MiAxMzQuNzcxIDIyNS42ODkgMTM5LjM4OUwzMDcuMDc2IDE3Ni4wODlDMzEyLjE4OCAxNjAuMTU3IDMxNSAxNDMuMTI2IDMxNSAxMjUuMzk5QzMxNC45OTYgMTE3LjI3OSAzMTQuMzk5IDEwOS4yMjQgMzEzLjIzNSAxMDEuMjk3Wk0yMDkuNjU0IDE3MC40ODRDMjA2LjQ4OSAxNzQuMDI2IDIwMi45OTYgMTc3LjIzMyAxOTkuMTg3IDE4MC4wMjVMMjM1LjE5NCAyNjUuNTk1QzI1OC45NjYgMjUyLjA2MiAyNzguOTE3IDIzMi4xNCAyOTIuOTI1IDIwOC4wMzZMMjA5LjY1NCAxNzAuNDg0Wk0xNjcuNTM5IDE5Mi4zMTZDMTY1LjM3MyAxOTIuNTM3IDE2My4xNzkgMTkyLjY2MiAxNjAuOTU3IDE5Mi42NjJDMTU5LjU1MiAxOTIuNjU3IDE1OC4xOTQgMTkyLjU5NyAxNTYuODMxIDE5Mi41NDFMMTIzLjI4MiAyNzkuNjVDMTM1LjgxNSAyODMuMTA3IDE0OC44MjMgMjg0Ljk3MyAxNjIuMDUxIDI4NUMxNzYuNTg5IDI4NSAxOTAuNjM2IDI4Mi44NCAyMDMuOTU5IDI3OC44ODZMMTY3LjUzOSAxOTIuMzE2WicvPjwvc3ZnPg==" alt="EcoRay" />
+    <img src="./assets/ecoray-badge.svg" alt="EcoRay" />
   </a>
-  and also finishing up my MSc. Computer Science @ ITU 🫨
+  and also finishing up my MSc. Computer Science @ ITU <img src="./assets/icons/graduation-cap.svg" width="20" height="20" alt="" align="absmiddle" />
 </p>
 <p align="center">
   <a href="https://links.lucashanson.dk/ig" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-dd2a7b?logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-8A5D70?style=flat&logo=instagram&logoColor=E4B3C3" />
   </a>
   <a href="https://links.lucashanson.dk/yt" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-ff0000?logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-8B5D5B?style=flat&logo=youtube&logoColor=E5AEAB" />
   </a>
   <a href="https://links.lucashanson.dk/li" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0nMjU2JyBoZWlnaHQ9JzI1NicgeG1sbnM9J2h0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnJyBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSd4TWlkWU1pZCcgdmlld0JveD0nMCAwIDI1NiAyNTYnPjxwYXRoIGQ9J00yMTguMTIzIDIxOC4xMjdoLTM3LjkzMXYtNTkuNDAzYzAtMTQuMTY1LS4yNTMtMzIuNC0xOS43MjgtMzIuNC0xOS43NTYgMC0yMi43NzkgMTUuNDM0LTIyLjc3OSAzMS4zNjl2NjAuNDNoLTM3LjkzVjk1Ljk2N2gzNi40MTN2MTYuNjk0aC41MWEzOS45MDcgMzkuOTA3IDAgMCAxIDM1LjkyOC0xOS43MzNjMzguNDQ1IDAgNDUuNTMzIDI1LjI4OCA0NS41MzMgNTguMTg2bC0uMDE2IDY3LjAxM1pNNTYuOTU1IDc5LjI3Yy0xMi4xNTcuMDAyLTIyLjAxNC05Ljg1Mi0yMi4wMTYtMjIuMDA5LS4wMDItMTIuMTU3IDkuODUxLTIyLjAxNCAyMi4wMDgtMjIuMDE2IDEyLjE1Ny0uMDAzIDIyLjAxNCA5Ljg1MSAyMi4wMTYgMjIuMDA4QTIyLjAxMyAyMi4wMTMgMCAwIDEgNTYuOTU1IDc5LjI3bTE4Ljk2NiAxMzguODU4SDM3Ljk1Vjk1Ljk2N2gzNy45N3YxMjIuMTZaTTIzNy4wMzMuMDE4SDE4Ljg5QzguNTgtLjA5OC4xMjUgOC4xNjEtLjAwMSAxOC40NzF2MjE5LjA1M2MuMTIyIDEwLjMxNSA4LjU3NiAxOC41ODIgMTguODkgMTguNDc0aDIxOC4xNDRjMTAuMzM2LjEyOCAxOC44MjMtOC4xMzkgMTguOTY2LTE4LjQ3NFYxOC40NTRjLS4xNDctMTAuMzMtOC42MzUtMTguNTg4LTE4Ljk2Ni0xOC40NTMnIGZpbGw9JyNmZmYnLz48L3N2Zz4K" />
+    <img src="./assets/linkedin-badge.svg" alt="LinkedIn" />
   </a>
   <a href="https://lucashanson.dk" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Website-467899?logo=react&logoColor=white" />
+    <img src="./assets/website-badge.svg" alt="Website" />
   </a>
   <a href="mailto:contact+gh@lucashanson.dk" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-1C7EF3?logo=data:image/svg+xml;base64,PHN2ZyBpZD0nTGF5ZXJfMScgZGF0YS1uYW1lPSdMYXllciAxJyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAxMTEuOTMgMTIyLjg4Jz48dGl0bGU+YXQtdGhlLXJhdGU8L3RpdGxlPjxwYXRoIGZpbGw9JyNmZmYnIGQ9J000Ni40LDYzLjkyYTM1LjEsMzUuMSwwLDAsMCwuMzQsOS4xNiwxMCwxMCwwLDAsMCwyLjYyLDUuNDgsNi42MSw2LjYxLDAsMCwwLDQuNzgsMS44MSw3LjQ0LDcuNDQsMCwwLDAsMy4xNC0uODhBMTAuNTcsMTAuNTcsMCwwLDAsNjEsNzUuODFhMTkuODIsMTkuODIsMCwwLDAsMi4zLTUuMDdsMi41LTI5LjA4YTE2LjUsMTYuNSwwLDAsMC0zLjM4LS4zNUExMywxMywwLDAsMCw1My45NCw0NGExNi44OSwxNi44OSwwLDAsMC01LDcuNjcsNTYuNzYsNTYuNzYsMCwwLDAtMi41NSwxMi4zWk02NS41Nyw4NS44NWEyMS41NCwyMS41NCwwLDAsMS0zLjQ3LDMuNTlBMjAuODgsMjAuODgsMCwwLDEsNDguNTIsOTRhMTcuNzUsMTcuNzUsMCwwLDEtMTEuMTctMy43LDIxLjgsMjEuOCwwLDAsMS03LjA4LTEwLjQ5LDM4LjI5LDM4LjI5LDAsMCwxLTEuNDUtMTUuODksNTQuMTYsNTQuMTYsMCwwLDEsNS44My0xOS4yN0EzNC42NCwzNC42NCwwLDAsMSw0NS44NCwzMiwyNi44OCwyNi44OCwwLDAsMSw2MSwyNy41cTgsMCwxMi41LDIuMjRhOTAuMTMsOTAuMTMsMCwwLDEsOC43MSw1TDc4Ljg3LDc0YTEwLjMzLDEwLjMzLDAsMCwwLDAsMy43NSw1LDUsMCwwLDAsMS4yNywyLjM3LDQuNzgsNC43OCwwLDAsMCwyLjA3LDEuMjYsOC4yNiw4LjI2LDAsMCwwLDktMi45MSwyNC42NSwyNC42NSwwLDAsMCw0LjU4LTguOTQsNDcuMiw0Ny4yLDAsMCwwLDItMTIuNzJxLjY0LTEzLjE0LTMuMzItMjMuMmEzMi4yLDMyLjIsMCwwLDAtMTIuNzMtMTUuN1E3MywxMi4yMiw1OS4xNywxMi4yM3EtMTMuMzEsMC0yMi44Myw2Ljc3QTQ1LDQ1LDAsMCwwLDIxLjQ1LDM3LjI1YTY5LDY5LDAsMCwwLTYsMjUuNjgsNjYuMjYsNjYuMjYsMCwwLDAsMS44OSwyMC41MywzNS40NSwzNS40NSwwLDAsMCw3LjUsMTQuMzcsMzEsMzEsMCwwLDAsMTIuNzIsOC40NkE1MC44Myw1MC44MywwLDAsMCw1NSwxMDkuMDdhNTguODgsNTguODgsMCwwLDAsMTEuNzMtMS4yMkE1OS4zOSw1OS4zOSwwLDAsMCw3Ni44OCwxMDVsMi41OCwxMmEzNC4yNywzNC4yNywwLDAsMS0xMS42LDQuNDQsNjMuNzQsNjMuNzQsMCwwLDEtMTMuMTMsMS40NXEtMTcuOTEsMC0zMC40LTYuNjNhNDIuNTYsNDIuNTYsMCwwLDEtMTguNzUtMjBRLS42NSw4Mi45NS4wOCw2Mi45M0E3OS40OCw3OS40OCwwLDAsMSw1LDM3LjkzYTYyLjQxLDYyLjQxLDAsMCwxLDEyLjA3LTIwQTUzLjYsNTMuNiwwLDAsMSwzNS41LDQuNzIsNTguNzksNTguNzksMCwwLDEsNTkuNDIsMHExNy40LDAsMjkuMzUsNy4xMWE0NC4yOSw0NC4yOSwwLDAsMSwxNy45LDE5LjcycTUuODgsMTIuNjIsNS4xOSwyOS4xNUE2My40Miw2My40MiwwLDAsMSwxMDkuNzYsNzBhNDEuNDksNDEuNDksMCwwLDEtNS40NCwxMi4zMiwyNy44OSwyNy44OSwwLDAsMS05LjIzLDguNzMsMjYuNjgsMjYuNjgsMCwwLDEtMTMuNDUsMy4yNSwxOC41NiwxOC41NiwwLDAsMS0xMy43Ni01LjUxLDE2LjE4LDE2LjE4LDAsMCwxLTIuMzEtM1onLz48L3N2Zz4=" />
+    <img src="./assets/email-badge.svg" alt="Email" />
   </a>
 </p>
 
@@ -31,11 +37,11 @@
 </p>
 
 
-<details open><summary><h3>👨‍💻 Code preferences</h3></summary>
+<details open><summary><h3><img src="./assets/icons/code.svg" width="24" height="24" alt="" align="absmiddle" /> Code preferences</h3></summary>
   <table align="center">
     <tr>
-      <th>Tolerates 😶</th>
-      <th>Loves 🤍</th>
+      <th><img src="./assets/icons/neutral-face.svg" width="18" height="18" alt="" align="absmiddle" /> Tolerates</th>
+      <th><img src="./assets/icons/heart.svg" width="18" height="18" alt="" align="absmiddle" /> Loves</th>
     </tr>
     <tr>
       <td>Significant whitespace</td>
@@ -66,7 +72,7 @@
 
 <!-- https://github.com/inttter/md-badges -->
 
-<details><summary><h3 align="center">📹 Latest YouTube videos</h2></summary>
+<details><summary><h3 align="center"><img src="./assets/icons/youtube.svg" width="24" height="24" alt="" align="absmiddle" /> Latest YouTube videos</h2></summary>
   <!-- BEGIN YOUTUBE-CARDS -->
 <a href="https://www.youtube.com/watch?v=xQ8oM73vKj0"><img src="https://ytcards.demolab.com/?id=xQ8oM73vKj0&title=ITU+Ski+2026+-+Val+d%27Is%C3%A8re&lang=en&timestamp=1770206761&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="ITU Ski 2026 - Val d'Isère" title="ITU Ski 2026 - Val d'Isère"></a>
 <a href="https://www.youtube.com/shorts/lF_PVmsYlKk"><img src="https://ytcards.demolab.com/?id=lF_PVmsYlKk&title=Annual+Party+2025&lang=en&timestamp=1759000713&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5" alt="Annual Party 2025" title="Annual Party 2025"></a>
@@ -77,7 +83,7 @@
 <!-- END YOUTUBE-CARDS -->
 </details>
 
-<details><summary><h3 align="center">📚 Latest Blog Posts</h3></summary>
+<details><summary><h3 align="center"><img src="./assets/icons/book.svg" width="24" height="24" alt="" align="absmiddle" /> Latest Blog Posts</h3></summary>
   <!-- BLOG-POST-LIST:START --><li><a href="https://lucashanson.dk/blog/self-hosted-ai-agents">(2026 Sep) I made my phone the brain of my AI agents - How I run a personal AI assistant on an old Android phone: one shared markdown vault, one self-hosted model, four agents, and the problems Android causes.</a></li>
 <li><a href="https://lucashanson.dk/blog/downsize-images">(2025 Mar) Downsizing Images - Downsizing images to prevent unauthorized use.</a></li>
 <li><a href="https://lucashanson.dk/blog/first-post">(2025 Feb) My first blog post - A brief introduction to my blog.</a></li>
