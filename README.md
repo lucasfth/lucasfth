@@ -84,7 +84,7 @@
 </details>
 
 <details><summary><h3 align="center"><img src="./assets/icons/book.svg" width="24" height="24" alt="" align="absmiddle" /> Latest Blog Posts</h3></summary>
-  <!-- BLOG-POST-LIST:START --><li><a href="https://lucashanson.dk/blog/self-hosted-ai-agents">(2026 Sep) I made my phone the brain of my AI agents - How I run a personal AI assistant on an old Android phone: one shared markdown vault, one self-hosted model, four agents, and the problems Android causes.</a></li>
+  <!-- BLOG-POST-LIST:START --><li><a href="https://lucashanson.dk/blog/self-hosted-ai-agents">(2026 Sep) I made my phone the brain of my AI agents - Why I keep my AI agents grounded in a portable markdown vault, and why a phone is a useful but unreliable place to run them.</a></li>
 <li><a href="https://lucashanson.dk/blog/downsize-images">(2025 Mar) Downsizing Images - Downsizing images to prevent unauthorized use.</a></li>
 <li><a href="https://lucashanson.dk/blog/first-post">(2025 Feb) My first blog post - A brief introduction to my blog.</a></li>
 <!-- BLOG-POST-LIST:END -->
