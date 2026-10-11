@@ -84,7 +84,8 @@
 </details>
 
 <details><summary><h3 align="center"><img src="./assets/icons/book.svg" width="24" height="24" alt="" align="absmiddle" /> Latest Blog Posts</h3></summary>
-  <!-- BLOG-POST-LIST:START --><li><a href="https://lucashanson.dk/blog/self-hosted-ai-agents">(2026 Sep) I made my phone the brain of my AI agents - Why I keep my AI agents grounded in a portable markdown vault, and why a phone is a useful but unreliable place to run them.</a></li>
+  <!-- BLOG-POST-LIST:START --><li><a href="https://lucashanson.dk/blog/shell-discovery">(2026 Oct) I configured a better shell. Then forgot how to use it. - I built a Raycast extension to surface the shell commands I keep forgetting. Installing better tools is easy. Using them is the problem.</a></li>
+<li><a href="https://lucashanson.dk/blog/self-hosted-ai-agents">(2026 Sep) I made my phone the brain of my AI agents - Five months of running Hermes Agent on an old Android phone: the vault is the asset, the agent is a replaceable part, and most of the work is keeping it alive.</a></li>
 <li><a href="https://lucashanson.dk/blog/downsize-images">(2025 Mar) Downsizing Images - Downsizing images to prevent unauthorized use.</a></li>
 <li><a href="https://lucashanson.dk/blog/first-post">(2025 Feb) My first blog post - A brief introduction to my blog.</a></li>
 <!-- BLOG-POST-LIST:END -->
