@@ -36,7 +36,9 @@
   Two webapps used for <a href="https://campuscup.dk">CampusCup</a>.
 </p>
 <p align="center">
-  At night a few idle Macs serve a small <a href="https://lucashanson.dk/projects/nocturne">LLM API paid in sats</a>.
+  <a href="https://lucashanson.dk/nocturne" target="_blank" rel="noopener noreferrer">
+    <img src="./assets/llm-api-badge.svg" alt="Private LLM API, pay in sats" />
+  </a>
 </p>
 
 
