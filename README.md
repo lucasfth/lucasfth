@@ -35,6 +35,9 @@
   Have earlier created <a href="https://github.com/itu-campuscup/judge-it">Judge IT</a> and <a href="https://github.com/itu-campuscup/show-it">Show IT</a>.
   Two webapps used for <a href="https://campuscup.dk">CampusCup</a>.
 </p>
+<p align="center">
+  At night a few idle Macs serve a small <a href="https://lucashanson.dk/projects/nocturne">LLM API paid in sats</a>.
+</p>
 
 
 <details open><summary><h3><img src="./assets/icons/code.svg" width="24" height="24" alt="" align="absmiddle" /> Code preferences</h3></summary>
