@@ -88,7 +88,7 @@
 <!-- END YOUTUBE-CARDS -->
 </details>
 
-<details><summary><h3 align="center"><img src="./assets/icons/book.svg" width="24" height="24" alt="" align="absmiddle" /> Latest Blog Posts</h3></summary>
+<details open><summary><h3><img src="./assets/icons/book.svg" width="24" height="24" alt="" align="absmiddle" /> Latest blog posts</h3></summary>
   <!-- BLOG-POST-LIST:START --><li><a href="https://lucashanson.dk/blog/shell-discovery">(2026 Oct) I configured a better shell. Then forgot how to use it. - I built a Raycast extension to surface the shell commands I keep forgetting. Installing better tools is easy. Using them is the problem.</a></li>
 <li><a href="https://lucashanson.dk/blog/self-hosted-ai-agents">(2026 Sep) I made my phone the brain of my AI agents - Five months of running Hermes Agent on an old Android phone: the vault is the asset, the agent is a replaceable part, and most of the work is keeping it alive.</a></li>
 <li><a href="https://lucashanson.dk/blog/downsize-images">(2025 Mar) Downsizing Images - Downsizing images to prevent unauthorized use.</a></li>

@@ -18,6 +18,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://lucashanson.dk/rss.xml"
-          date_format: "yyyy mmm"
-          template: '<li><a href="$url">($date) $title - $description</a></li>$newline'
+          max_post_count: "4"
+          date_format: "mmm yyyy"
+          tag_post_pre_newline: "true"
+          template: '<p><strong><a href="$url">$title</a></strong><br /><sub>$date</sub><br />$description</p>$newline'
           commit_message: "Update with latest blog post"
