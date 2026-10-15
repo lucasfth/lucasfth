@@ -89,9 +89,11 @@
 </details>
 
 <details open><summary><h3><img src="./assets/icons/book.svg" width="24" height="24" alt="" align="absmiddle" /> Latest blog posts</h3></summary>
-  <!-- BLOG-POST-LIST:START --><li><a href="https://lucashanson.dk/blog/shell-discovery">(2026 Oct) I configured a better shell. Then forgot how to use it. - I built a Raycast extension to surface the shell commands I keep forgetting. Installing better tools is easy. Using them is the problem.</a></li>
-<li><a href="https://lucashanson.dk/blog/self-hosted-ai-agents">(2026 Sep) I made my phone the brain of my AI agents - Five months of running Hermes Agent on an old Android phone: the vault is the asset, the agent is a replaceable part, and most of the work is keeping it alive.</a></li>
-<li><a href="https://lucashanson.dk/blog/downsize-images">(2025 Mar) Downsizing Images - Downsizing images to prevent unauthorized use.</a></li>
-<li><a href="https://lucashanson.dk/blog/first-post">(2025 Feb) My first blog post - A brief introduction to my blog.</a></li>
+  <!-- BLOG-POST-LIST:START -->
+<p><strong><a href="https://lucashanson.dk/blog/shell-discovery">I configured a better shell. Then forgot how to use it.</a></strong><br /><sub>Oct 2026</sub><br />I built a Raycast extension to surface the shell commands I keep forgetting. Installing better tools is easy. Using them is the problem.</p>
+<p><strong><a href="https://lucashanson.dk/blog/self-hosted-ai-agents">I made my phone the brain of my AI agents</a></strong><br /><sub>Sep 2026</sub><br />Five months of running Hermes Agent on an old Android phone: the vault is the asset, the agent is a replaceable part, and most of the work is keeping it alive.</p>
+<p><strong><a href="https://lucashanson.dk/blog/downsize-images">Downsizing Images</a></strong><br /><sub>Mar 2025</sub><br />Downsizing images to prevent unauthorized use.</p>
+<p><strong><a href="https://lucashanson.dk/blog/first-post">My first blog post</a></strong><br /><sub>Feb 2025</sub><br />A brief introduction to my blog.</p>
+
 <!-- BLOG-POST-LIST:END -->
 </details>
