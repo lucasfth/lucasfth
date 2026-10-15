@@ -88,7 +88,7 @@
 <!-- END YOUTUBE-CARDS -->
 </details>
 
-<details open><summary><h3><img src="./assets/icons/book.svg" width="24" height="24" alt="" align="absmiddle" /> Latest blog posts</h3></summary>
+<details><summary><h3><img src="./assets/icons/book.svg" width="24" height="24" alt="" align="absmiddle" /> Latest blog posts</h3></summary>
   <!-- BLOG-POST-LIST:START -->
 <p><strong><a href="https://lucashanson.dk/blog/shell-discovery">I configured a better shell. Then forgot how to use it.</a></strong><br /><sub>Oct 2026</sub><br />I built a Raycast extension to surface the shell commands I keep forgetting. Installing better tools is easy. Using them is the problem.</p>
 <p><strong><a href="https://lucashanson.dk/blog/self-hosted-ai-agents">I made my phone the brain of my AI agents</a></strong><br /><sub>Sep 2026</sub><br />Five months of running Hermes Agent on an old Android phone: the vault is the asset, the agent is a replaceable part, and most of the work is keeping it alive.</p>
