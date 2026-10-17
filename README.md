@@ -90,10 +90,10 @@
 
 <details><summary><h3><img src="./assets/icons/book.svg" width="24" height="24" alt="" align="absmiddle" /> Latest blog posts</h3></summary>
   <!-- BLOG-POST-LIST:START -->
+<p><strong><a href="https://lucashanson.dk/blog/old-ipad-health-data">My old iPad already had 7 years of my health data</a></strong><br /><sub>Oct 2026</sub><br />An old iPad, an AI assistant that reads it, and a switch that had been off since install: how cross-checking wide health history from watch and scale works, and why the numbers stay off this site.</p>
 <p><strong><a href="https://lucashanson.dk/blog/shell-discovery">I configured a better shell. Then forgot how to use it.</a></strong><br /><sub>Oct 2026</sub><br />I built a Raycast extension to surface the shell commands I keep forgetting. Installing better tools is easy. Using them is the problem.</p>
 <p><strong><a href="https://lucashanson.dk/blog/self-hosted-ai-agents">I made my phone the brain of my AI agents</a></strong><br /><sub>Sep 2026</sub><br />Five months of running Hermes Agent on an old Android phone: the vault is the asset, the agent is a replaceable part, and most of the work is keeping it alive.</p>
 <p><strong><a href="https://lucashanson.dk/blog/downsize-images">Downsizing Images</a></strong><br /><sub>Mar 2025</sub><br />Downsizing images to prevent unauthorized use.</p>
-<p><strong><a href="https://lucashanson.dk/blog/first-post">My first blog post</a></strong><br /><sub>Feb 2025</sub><br />A brief introduction to my blog.</p>
 
 <!-- BLOG-POST-LIST:END -->
 </details>
