@@ -90,10 +90,10 @@
 
 <details><summary><h3><img src="./assets/icons/book.svg" width="24" height="24" alt="" align="absmiddle" /> Latest blog posts</h3></summary>
   <!-- BLOG-POST-LIST:START -->
+<p><strong><a href="https://lucashanson.dk/blog/slower-then-faster">I made my local LLM slower, then faster</a></strong><br /><sub>Oct 2026</sub><br />Over seven weeks I swapped the model on Mimer, turned on MTP speculative decoding in llama.cpp, and changed the serving engine. What each change measured, and what it did not prove.</p>
 <p><strong><a href="https://lucashanson.dk/blog/injection-refusals">I hardened my agent against injection. It started refusing &quot;what time is it.&quot;</a></strong><br /><sub>Oct 2026</sub><br />Forty-one security refusals, one of them to a bare question mark. What happens when your prompt-injection defenses start treating your own platform as the attacker.</p>
 <p><strong><a href="https://lucashanson.dk/blog/yubikey-bitcoin">I secured my Bitcoin with two YubiKeys</a></strong><br /><sub>Oct 2026</sub><br />No hardware wallet. My Bitcoin is guarded by two YubiKeys I already use daily, a sentence I memorized, and a printed paper. Here is what I understand, and what I do not.</p>
 <p><strong><a href="https://lucashanson.dk/blog/old-ipad-health-data">My old iPad already had 7 years of my health data</a></strong><br /><sub>Oct 2026</sub><br />An old iPad, an AI assistant that reads it, and a switch that had been off since install: how cross-checking wide health history from watch and scale works, and why the numbers stay off this site.</p>
-<p><strong><a href="https://lucashanson.dk/blog/shell-discovery">I configured a better shell. Then forgot how to use it.</a></strong><br /><sub>Oct 2026</sub><br />I built a Raycast extension to surface the shell commands I keep forgetting. Installing better tools is easy. Using them is the problem.</p>
 
 <!-- BLOG-POST-LIST:END -->
 </details>
