@@ -4,6 +4,15 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://lucashanson.dk" target="_blank" rel="noopener noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/lucasfth/brand@v1/dist/mark/hbit-mark-warm-on-dark.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/lucasfth/brand@v1/dist/mark/hbit-mark-warm-on-light.svg" alt="hbit" width="48" />
+    </picture>
+  </a>
+</p>
+
 <h3 align="center">Hi I am Lucas</h3>
 
 <p align="center">
