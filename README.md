@@ -99,10 +99,10 @@
 
 <details><summary><h3><img src="./assets/icons/book.svg" width="24" height="24" alt="" align="absmiddle" /> Latest blog posts</h3></summary>
   <!-- BLOG-POST-LIST:START -->
+<p><strong><a href="https://lucashanson.dk/blog/nokia-klaus-voice-terminal">I made a Nokia 6300 the ears of my company&#39;s AI agent</a></strong><br /><sub>Oct 2026</sub><br />A 2021 KaiOS phone becomes a voice terminal for my company&#39;s AI: stock OS, two small apps, one loopback bridge, and a token that can only talk to that bridge.</p>
 <p><strong><a href="https://lucashanson.dk/blog/muninn-checkable-memory">I made my agents&#39; memory checkable</a></strong><br /><sub>Oct 2026</sub><br />Four problems, four fixes: blind search, no undo, silent staleness, and unguarded writes. What each change does, and what it does not prove.</p>
 <p><strong><a href="https://lucashanson.dk/blog/slower-then-faster">I made my local LLM slower, then faster</a></strong><br /><sub>Oct 2026</sub><br />Over seven weeks I swapped the model on Mimer, turned on MTP speculative decoding in llama.cpp, and changed the serving engine. What each change measured, and what it did not prove.</p>
 <p><strong><a href="https://lucashanson.dk/blog/injection-refusals">I hardened my agent against injection. It started refusing &quot;what time is it.&quot;</a></strong><br /><sub>Oct 2026</sub><br />Forty-one security refusals, one of them to a bare question mark. What happens when your prompt-injection defenses start treating your own platform as the attacker.</p>
-<p><strong><a href="https://lucashanson.dk/blog/yubikey-bitcoin">I secured my Bitcoin with two YubiKeys</a></strong><br /><sub>Oct 2026</sub><br />No hardware wallet. My Bitcoin is guarded by two YubiKeys I already use daily, a sentence I memorized, and a printed paper. Here is what I understand, and what I do not.</p>
 
 <!-- BLOG-POST-LIST:END -->
 </details>
