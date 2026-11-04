@@ -99,10 +99,10 @@
 
 <details><summary><h3><img src="./assets/icons/book.svg" width="24" height="24" alt="" align="absmiddle" /> Latest blog posts</h3></summary>
   <!-- BLOG-POST-LIST:START -->
+<p><strong><a href="https://lucashanson.dk/blog/i-became-a-data-hoarder">I&#39;ve become a data hoarder</a></strong><br /><sub>Nov 2026</sub><br />2,544 notes, 9.8 MB of Markdown, and a raven named Muninn. No vector database: an inverted index, math, and a ledger that keeps the bytes, so the whole hoard answers a question in about 22 milliseconds.</p>
 <p><strong><a href="https://lucashanson.dk/blog/the-code-they-write">The code they write</a></strong><br /><sub>Nov 2026</sub><br />I sent a draft to four models. Three said fine. One said it reads machine-written. Code review works the same trick, except the code ships to production.</p>
 <p><strong><a href="https://lucashanson.dk/blog/nokia-klaus-voice-terminal">I made a Nokia 6300 the ears of my company&#39;s AI agent</a></strong><br /><sub>Oct 2026</sub><br />A 2021 KaiOS phone becomes a voice terminal for my company&#39;s AI: stock OS, two small apps, one loopback bridge, and a token that can only talk to that bridge.</p>
 <p><strong><a href="https://lucashanson.dk/blog/muninn-checkable-memory">I made my agents&#39; memory checkable</a></strong><br /><sub>Oct 2026</sub><br />Four problems, four fixes: blind search, no undo, silent staleness, and unguarded writes. What each change does, and what it does not prove.</p>
-<p><strong><a href="https://lucashanson.dk/blog/slower-then-faster">I made my local LLM slower, then faster</a></strong><br /><sub>Oct 2026</sub><br />Over seven weeks I swapped the model on Mimer, turned on MTP speculative decoding in llama.cpp, and changed the serving engine. What each change measured, and what it did not prove.</p>
 
 <!-- BLOG-POST-LIST:END -->
 </details>
